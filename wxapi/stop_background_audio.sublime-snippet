@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+wx.stopBackgroundAudio()
+]]></content>
+	<tabTrigger>wxstopBackgroundAudio</tabTrigger>
+    <description>(停止播放音乐)</description>
+    <scope>source.js</scope>
+</snippet>
